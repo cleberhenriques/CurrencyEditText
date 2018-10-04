@@ -3,7 +3,7 @@ package com.blackcat.currencyedittext;
 import android.text.Editable;
 import android.text.TextWatcher;
 
-class CurrencyTextWatcher implements TextWatcher {
+public class CurrencyTextWatcher implements TextWatcher {
 
     private CurrencyEditText editText;
 
